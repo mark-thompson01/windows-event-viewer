@@ -1,8 +1,7 @@
 # windows-event-viewer
 
-# windows-event-viewer
 
-# 🖥 Windows Event Viewer Lab
+# 🖥 Windows Event Viewer
 
 This repository showcases my **Windows Event Viewer Troubleshooting Guide** as part of my IT and troubleshooting lab portfolio.  
 The guide provides a structured, visual reference for diagnosing common Windows system, application, and security issues using Event Viewer.
