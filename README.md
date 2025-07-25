@@ -27,7 +27,7 @@ This tutorial explores navigating different Event ID's in Windows Event Viewer f
 ---
 
 
-## 🔍 What You'll Learn
+## 🔍 What I've Learned
 
 - How to navigate **Event Viewer** and locate logs by category  
 - How to identify and interpret common **Event IDs** for:
