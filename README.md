@@ -3,7 +3,7 @@
 
 # 🖥 Windows Event Viewer
 
-This repository showcases my **Windows Event Viewer Troubleshooting Guide** as part of my IT and troubleshooting lab portfolio.  
+This repository explore's **Windows Event Viewe** as part of a project on my Portfolio.   
 The guide provides a structured, visual reference for diagnosing common Windows system, application, and security issues using Event Viewer.
 
 ![Event Viewer Screenshot](Images/6008.png)
@@ -22,7 +22,7 @@ The included HTML page organizes **Event IDs by category**, along with screensho
 🖥️ **Live Project Webpage:**  
 👉 [Event Viewer Lab](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/Windows%20Event%20Viewer/)
 
-This tutorial explores navigating different Event ID's in Windows Event Viewer for troubleshooting different issues.
+This guide explores navigating different Event ID's in Windows Event Viewer for troubleshooting different issues.
 
 ---
 
