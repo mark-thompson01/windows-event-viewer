@@ -3,7 +3,7 @@
 
 # 🖥 Windows Event Viewer
 
-This repository explore's **Windows Event Viewe** as part of a project on my Portfolio.   
+This repository explore's **Windows Event Viewer** as part of a project on my Portfolio.   
 The guide provides a structured, visual reference for diagnosing common Windows system, application, and security issues using Event Viewer.
 
 ![Event Viewer Screenshot](Images/41.png)
