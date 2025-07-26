@@ -8,6 +8,7 @@ The guide provides a structured, visual reference for diagnosing common Windows 
 
 ![Event Viewer Screenshot](Images/41.png)
 
+
 ---
 
 ## 📖 Overview
@@ -17,12 +18,14 @@ This lab is designed as an **educational reference**, showing how to interpret s
 
 The included HTML page organizes **Event IDs by category**, along with screenshots of actual logs to help identify root causes quickly.
 
+
 ---
 
 🖥️ **Live Project Webpage:**  
 👉 [Event Viewer Lab](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/Windows%20Event%20Viewer/)
 
 This guide explores navigating different Event ID's in Windows Event Viewer for troubleshooting different issues.
+
 
 ---
 
@@ -45,6 +48,7 @@ This guide explores navigating different Event ID's in Windows Event Viewer for 
   - Correlating events across multiple logs
   - Exporting logs for further analysis
 
+
 ---
 
 ## 📁 More from Me
@@ -52,6 +56,7 @@ This guide explores navigating different Event ID's in Windows Event Viewer for 
 Visit my full GitHub Pages portfolio to explore additional projects:
 
 🔗 [MTPortfolio – Full Project Index](https://mark-thompson01.github.io/MTPortfolio/)
+
 
 ---
 
