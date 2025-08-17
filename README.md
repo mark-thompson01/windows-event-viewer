@@ -15,6 +15,7 @@ The guide provides a structured, visual reference for diagnosing common Windows 
 ## 📖 Overview
 
 Event Viewer is a core tool for IT professionals to diagnose and troubleshoot Windows environments.  
+
 This lab is designed as an **educational reference**, showing how to interpret specific Event IDs and where to locate them across the different Event Viewer logs.
 
 The included HTML page organizes **Event IDs by category**, along with screenshots of actual logs to help identify root causes quickly.
